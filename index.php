@@ -7,6 +7,6 @@
     <title>Jeu de merde</title>
 </head>
 <body>
-    
+    <div><p>blablabla</p></div>
 </body>
 </html>
